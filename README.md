@@ -1,3 +1,5 @@
+> **KERI × TCM Identity Infrastructure Project**  
+> by *Liam YW Eddiman*
 # KERI-TCM-Identity  
 ### A KERI-based Identity Framework for TCM Practitioners & Traditional Medicine Provenance  
 **Author: Liam YW Eddiman**
