@@ -1,0 +1,32 @@
+{
+  "batch_id": "AID-xxxxx",
+  "origin": {
+    "region": "string",
+    "farm": "string",
+    "crop_variety": "string",
+    "harvest_date": "YYYY-MM-DD"
+  },
+  "processing_events": [
+    {
+      "facility": "string",
+      "process_type": "drying | extraction | fermentation",
+      "timestamp": "YYYY-MM-DD",
+      "signature": "sig-xxx"
+    }
+  ],
+  "lab_tests": [
+    {
+      "lab": "string",
+      "test_type": "purity | safety | composition",
+      "result": "string",
+      "date": "YYYY-MM-DD",
+      "signature": "sig-xxx"
+    }
+  ],
+  "export": {
+    "authority": "string",
+    "certificate_id": "string",
+    "date": "YYYY-MM-DD",
+    "signature": "sig-xxx"
+  }
+}
