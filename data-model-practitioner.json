@@ -1,0 +1,30 @@
+{
+  "practitioner_id": "AID-xxxxx",
+  "name": "string",
+  "lineage": [
+    {
+      "master": "string",
+      "start_date": "YYYY-MM-DD",
+      "end_date": "YYYY-MM-DD",
+      "signature": "sig-xxx"
+    }
+  ],
+  "training_records": [
+    {
+      "institution": "string",
+      "program": "string",
+      "completion_date": "YYYY-MM-DD",
+      "signature": "sig-xxx"
+    }
+  ],
+  "licenses": [
+    {
+      "authority": "string",
+      "country": "string",
+      "valid_from": "YYYY-MM-DD",
+      "valid_to": "YYYY-MM-DD",
+      "status": "active | suspended | expired",
+      "signature": "sig-xxx"
+    }
+  ]
+}
