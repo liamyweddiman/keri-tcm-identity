@@ -56,6 +56,30 @@ Traditional medicine systems face persistent challenges:
 
 ---
 
+## 📁 Repository Structure
+/docs
+├── overview.md
+├── keri-basics.md
+├── practitioner-event-chain.md
+├── herbal-provenance-model.md
+
+/use-cases
+├── tcm-practitioner-credentialing.md
+├── herbal-supply-provenance.md
+
+/models
+├── data-model-practitioner.json
+├── data-model-herbal.json
+
+/diagrams
+├── practitioner-event-chain.svg
+├── herbal-provenance-chain.svg
+├── architecture-overview.png
+
+README.md
+
+---
+
 ## 🚀 Roadmap
 | Phase | Milestone |
 |-------|-----------|
