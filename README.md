@@ -74,8 +74,8 @@ Traditional medicine systems face persistent challenges:
 ├── data-model-herbal.json
 
 /diagrams
-├── practitioner-event-chain.svg
-├── herbal-provenance-chain.svg
+├── practitioner-event-chain.png
+├── herbal-provenance-chain.png
 ├── architecture-overview.png
 
 README.md
